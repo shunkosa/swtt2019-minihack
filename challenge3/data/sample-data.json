@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "ParkAnimalRelation__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "park-animal-data.json"
+        ]
+    }
+]

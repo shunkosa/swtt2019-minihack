@@ -1,0 +1,15 @@
+<template>
+    <lightning-card icon-name="custom:custom96">
+        <b slot="title">目撃された動物</b>
+        <div class="slds-p-horizontal_medium">
+            <lightning-carousel>
+                <template if:true={animals.data}>
+                    <template for:each={animals.data} for:item="animal">
+                        <lightning-carousel-image data-id={animal.Id} key={animal.Id} src={animal.Image__c} header={animal.Name} description={animal.Description__c} onclick={navigateToRecord}>
+                        </lightning-carousel-image>
+                    </template>
+                </template>
+            </lightning-carousel>
+        </div>
+    </lightning-card>
+</template>

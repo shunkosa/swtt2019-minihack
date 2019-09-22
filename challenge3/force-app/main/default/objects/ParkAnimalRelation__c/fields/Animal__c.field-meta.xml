@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Animal__c</fullName>
+    <externalId>false</externalId>
+    <label>動物</label>
+    <referenceTo>Animal__c</referenceTo>
+    <relationshipLabel>公園での目撃情報</relationshipLabel>
+    <relationshipName>Relations</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

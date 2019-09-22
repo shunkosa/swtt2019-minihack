@@ -1,0 +1,14 @@
+{
+  "orgName": "SWTT 2019 Minihack Challenge 5",
+  "edition": "Developer",
+  "country": "JP",
+  "language": "ja",
+  "hasSampleData": "true",
+  "features": [],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "s1EncryptedStoragePref2": false
+    }
+  }
+}

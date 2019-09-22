@@ -1,0 +1,14 @@
+<template>
+    <lightning-card icon-name="standard:task2">
+        <b slot="title">請求住所検証ステータス</b>
+        <div class="slds-p-horizontal_medium">
+            <template if:true={picklistValues.data}>
+                <lightning-progress-indicator current-step={status} type="path" variant="base">
+                    <template for:each={picklistValues.data.values} for:item="item">
+                        <lightning-progress-step key={item.value} label={item.label} value={item.value}></lightning-progress-step>
+                    </template>
+                </lightning-progress-indicator>
+            </template>
+        </div>
+    </lightning-card>
+</template>

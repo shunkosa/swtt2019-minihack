@@ -1,0 +1,5 @@
+List<BillingAddressVerificationController.Input> inputs = new List<BillingAddressVerificationController.Input>();
+BillingAddressVerificationController.Input input = new BillingAddressVerificationController.Input();
+input.accountId = '0011F00000VEg2wQAD';
+inputs.add(input);
+BillingAddressVerificationController.verifyAccountBillingAddress(inputs);

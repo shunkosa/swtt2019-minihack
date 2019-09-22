@@ -1,0 +1,55 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Project__c",
+                "referenceId": "Project__cRef1"
+            },
+            "Account__r": {
+                "attributes": {
+                    "type": "Account",
+                    "url": "/services/data/v46.0/sobjects/Account/0011700000wd9ETAAY"
+                },
+                "Name": "虎ノ門株式会社"
+            },
+            "StartDate__c": "2019-04-01",
+            "EndDate__c": "2019-07-31",
+            "Name": "夏の決算セール計画",
+            "Status__c": "新規"
+        },
+        {
+            "attributes": {
+                "type": "Project__c",
+                "referenceId": "Project__cRef2"
+            },
+            "Account__r": {
+                "attributes": {
+                    "type": "Account",
+                    "url": "/services/data/v46.0/sobjects/Account/0011700000wd9EUAAY"
+                },
+                "Name": "プリンス商店"
+            },
+            "StartDate__c": "2019-09-03",
+            "EndDate__c": "2020-08-10",
+            "Name": "FY20 アジア地区拠点拡大",
+            "Status__c": "進行中"
+        },
+        {
+            "attributes": {
+                "type": "Project__c",
+                "referenceId": "Project__cRef3"
+            },
+            "Account__r": {
+                "attributes": {
+                    "type": "Account",
+                    "url": "/services/data/v46.0/sobjects/Account/0011700000wd9EYAAY"
+                },
+                "Name": "アストロ電器"
+            },
+            "StartDate__c": "2019-09-30",
+            "EndDate__c": "2020-01-31",
+            "Name": "アストロ電器 - 関西地区出店プロジェクト",
+            "Status__c": "進行中"
+        }
+    ]
+}

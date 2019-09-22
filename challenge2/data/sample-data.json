@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Project__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "account-project-data.json"
+        ]
+    }
+]

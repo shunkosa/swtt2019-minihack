@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Start_Date_Must_Be_Earlier_Than_End_Date</fullName>
+    <active>true</active>
+    <description>終了日に開始日より前の日付は指定できないようにする</description>
+    <errorConditionFormula>EndDate__c &lt; StartDate__c</errorConditionFormula>
+    <errorDisplayField>EndDate__c</errorDisplayField>
+    <errorMessage>終了日は開始日よりも後の日付を入力してください。</errorMessage>
+</ValidationRule>

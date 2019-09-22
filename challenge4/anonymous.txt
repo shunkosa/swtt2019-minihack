@@ -1,0 +1,5 @@
+List<Fridge_Log__e> events = new List<Fridge_Log__e>();
+events.add(new Fridge_Log__e(employeeName__c = 'Andy Young', badgeId__c='1234', fridgeId__c='8901'));
+events.add(new Fridge_Log__e(employeeName__c = 'Andy Young', badgeId__c='4321', fridgeId__c='abcd'));
+events.add(new Fridge_Log__e(employeeName__c = 'Sean Forbes', badgeId__c='asdfg', fridgeId__c='qwert'));
+EventBus.publish(events);

@@ -1,0 +1,11 @@
+{
+  "orgName": "SWTT 2019 Minihack Challenge 4",
+  "edition": "Developer",
+  "hasSampleData": "true",
+  "features": [],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true
+    }
+  }
+}

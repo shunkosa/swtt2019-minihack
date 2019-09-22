@@ -23,5 +23,5 @@ sfdx force:user:permset:assign -n BillingAddressVerificationStatus
 sfdx force:org:open
 ```
 
-## 4. 取引先レコードを新規作成する
+### 4. 取引先レコードを新規作成する
 * `請求住所検証ステータス` 項目のデフォルト値は `保留中 (Pending) `ですが、少し待ってからステータスが自動的に `無効 (Invalid)` に変わることを確認します。

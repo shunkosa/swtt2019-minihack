@@ -1,0 +1,12 @@
+<template>
+    <lightning-card icon-name="custom:custom80">
+        <b slot="title">Product List</b>
+        <div class="slds-m-horizontal_medium">
+            <template if:true={productList.data}>
+                <template for:each={productList.data} for:item="product">
+                    <c-product-list-item key={product.Id} product={product}></c-product-list-item>
+                </template>
+            </template>
+        </div>
+    </lightning-card>
+</template>

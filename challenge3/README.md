@@ -4,6 +4,7 @@
 ![](challenge3_screenshot.png)
 
 ## 解答例の確認方法
+
 ### 1. スクラッチ組織を作成する
 ```
 sfdx force:org:create -s -f config/project-scratch-def.json -a swtt2019-c3-park

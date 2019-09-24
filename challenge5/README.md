@@ -3,6 +3,7 @@
 ![](challenge5_screenshot.gif)
 
 ## 解答例の確認方法
+
 ### 1. スクラッチ組織を作成する
 ```
 sfdx force:org:create -s -f config/project-scratch-def.json -a swtt2019-c5-billing

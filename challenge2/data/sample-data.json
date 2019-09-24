@@ -1,10 +1,14 @@
 [
     {
-        "sobject": "Project__c",
+        "sobject": "Account",
         "saveRefs": true,
         "resolveRefs": false,
-        "files": [
-            "account-project-data.json"
-        ]
+        "files": ["accounts.json"]
+    },
+    {
+        "sobject": "Project__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["projects.json"]
     }
 ]

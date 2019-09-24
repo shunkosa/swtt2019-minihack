@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "虎ノ門株式会社",
+            "Phone": "3362227000"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "プリンス商店",
+            "Phone": "7227003362"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "アストロ電器",
+            "Phone": "6179658855"
+        }
+    ]
+}

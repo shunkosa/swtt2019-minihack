@@ -13,5 +13,4 @@
     <tabs>Animal__c</tabs>
     <tabs>ParkAnimalRelation__c</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>UtilityBar</utilityBar>
 </CustomApplication>

@@ -12,7 +12,6 @@ Challenge 1 を除き、各フォルダが [Salesforce DX プロジェクト](ht
 
 * Trail Tracker のインストール用URLは以下です。
     * https://login.salesforce.com/packagingSetupUI/ipLanding.app?apvId=04t1Q000000s2uCQAQ
-* 同じ Lightning ページ上でコンポーネントを動的に表示するには、[表示設定プロパティ](https://help.salesforce.com/articleView?id=lightning_page_components_visibility.htm&type=5&language=ja)を用います。
 
 ### Challenge 2 - Salesforce 内でのプロジェクト管理
 📊 [Challenge 2 の解答例](challenge2/)

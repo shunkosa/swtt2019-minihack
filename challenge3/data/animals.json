@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef1"
+            },
+            "Name": "ツキノワグマ",
+            "Description__c": "森林に生息する。夜行性で、昼間は樹洞や岩の割れ目・洞窟などで休むが、果実がある時期は昼間に活動することもある。夏季には標高3,600メートルの場所でも生活するが、冬季になると標高の低い場所へ移動する。シベリアの個体群は4 - 5か月にわたり冬眠するとされるが、パキスタン南部の個体群は冬眠しないとされる。",
+            "Image__c": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ursusthibetanus.JPG",
+            "Endangered__c": false
+        },
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef2"
+            },
+            "Name": "ライオン",
+            "Description__c": "百獣の王",
+            "Image__c": "https://upload.wikimedia.org/wikipedia/commons/f/fa/2012_Lion_Gemsbokvlakte.jpg",
+            "Endangered__c": false   
+        },
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef3"
+            },
+            "Name": "オオワシ",
+            "Description__c": "鳥綱タカ目タカ科オジロワシ属に分類される鳥類。日本で一番大きなワシともいわれる。",
+            "Image__c": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Haliaeetus_pelagicus_Hokkaido.jpg",
+            "Endangered__c": false
+        },
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef4"
+            },
+            "Name": "クマタカ",
+            "Description__c": "鳥綱タカ目タカ科クマタカ属に分類される鳥。日本に分布するタカ科の構成種では大型であることが和名の由来（熊=大きく強い）。",
+            "Image__c": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mountain_hawk-eagle.jpg",
+            "Endangered__c": false
+        },
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef5"
+            },
+            "Name": "ホッキョクグマ",
+            "Description__c": "クマ科クマ属に分類される食肉類。ホッキョクグマは北極の生活のために体を進化させた。保温性の高い毛皮、分厚い脂肪、短い足は、寒冷な気候への適応である。",
+            "Image__c": "https://upload.wikimedia.org/wikipedia/commons/4/45/Polar_Bear_ANWR_1.jpg",
+            "Endangered__c": false
+        },
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef6"
+            },
+                "Name": "オオワシ",
+                "Description__c": "鳥綱タカ目タカ科オジロワシ属に分類される鳥類。日本で一番大きなワシともいわれる。",
+                "Image__c": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Haliaeetus_pelagicus_Hokkaido.jpg",
+                "Endangered__c": false
+        }
+    ]
+}

@@ -1,10 +1,26 @@
 [
     {
-        "sobject": "ParkAnimalRelation__c",
+        "sobject": "Park__c",
         "saveRefs": true,
         "resolveRefs": false,
         "files": [
-            "park-animal-data.json"
+            "parks.json"
+        ]
+    },
+    {
+        "sobject": "Animal__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "animals.json"
+        ]
+    },
+    {
+        "sobject": "ParkAnimalRelation__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "park-animal-relations.json"
         ]
     }
 ]

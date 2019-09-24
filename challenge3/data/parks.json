@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef1"
+            },
+            "Name": "Trailblazer Park",
+            "Description__c": "Hello Trailblazers!",
+            "Preserved__c": false
+        },
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef2"
+            },
+            "Name": "Salesforce Park",
+            "Description__c": null,
+            "Preserved__c": false
+        },
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef3"
+            },
+            "Name": "Trailhead Park",
+            "Description__c": null,
+            "Preserved__c": false
+        }
+    ]
+}

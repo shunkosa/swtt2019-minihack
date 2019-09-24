@@ -1,0 +1,52 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "ParkAnimalRelation__c",
+                "referenceId": "ParkAnimalRelation__cRef1"
+            },
+            "Animal__c": "@Animal__cRef1",
+            "Park__c": "@Park__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "ParkAnimalRelation__c",
+                "referenceId": "ParkAnimalRelation__cRef2"
+            },
+            "Animal__c": "@Animal__cRef2",
+            "Park__c": "@Park__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "ParkAnimalRelation__c",
+                "referenceId": "ParkAnimalRelation__cRef3"
+            },
+            "Animal__c": "@Animal__cRef3",
+            "Park__c": "@Park__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "ParkAnimalRelation__c",
+                "referenceId": "ParkAnimalRelation__cRef4"
+            },
+            "Animal__c": "@Animal__cRef4",
+            "Park__c": "@Park__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "ParkAnimalRelation__c",
+                "referenceId": "ParkAnimalRelation__cRef5"
+            },
+            "Animal__c": "@Animal__cRef5",
+            "Park__c": "@Park__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "ParkAnimalRelation__c",
+                "referenceId": "ParkAnimalRelation__cRef6"
+            },
+            "Animal__c": "@Animal__cRef6",
+            "Park__c": "@Park__cRef2"
+        }
+    ]
+}

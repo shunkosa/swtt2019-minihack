@@ -20,6 +20,10 @@ sfdx force:source:push
 sfdx force:user:permset:assign -n Fridge
 ```
 
+※https://tdx-fridge-logs.herokuapp.com はスクラッチ組織や Sandbox 組織に対応していません。
+以下は、手順1〜3で作成した組織で、プラットフォームイベントの受信をテストするための簡易的な手順です。
+Developer Edition 組織で https://tdx-fridge-logs.herokuapp.com/ を試す場合は、任意の初期データの名前(例 Andy Young 等) でイベントがPublish されますので、作成されるカスタムオブジェクトレコードから取引先責任者を辿ってください。
+
 ### 4. ブラウザで組織を開く
 ```
 sfdx force:org:open

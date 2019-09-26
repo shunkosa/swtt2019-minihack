@@ -28,7 +28,6 @@ Challenge 1 を除き、各フォルダが [Salesforce DX プロジェクト](ht
 
 * 同性同名の取引先責任者レコードが存在する場合は考慮していません。(要件に何も書いていないので…😂)
 * 解答例は Bulkify していますが、簡便のため[バッチサイズをガバナ制限に抵触しないように小さく](https://developer.salesforce.com/docs/atlas.ja-jp.platform_events.meta/platform_events/platform_events_subscribe_batch_resume.htm)してしまっても良いと思います。
-* [提供されている Heroku のアプリケーション](https://tdx-fridge-logs.herokuapp.com/)が503でイベントを Publish してくれないので、匿名実行など他の方法で Publish すると良いでしょう。(期間限定だったのかな…？)
 
 ### Challenge 5 - サードパーティサービスとプロセスビルダーおよび Lightning Web Component との連携
 🤝 [Challenge 5 の解答例](challenge5/)

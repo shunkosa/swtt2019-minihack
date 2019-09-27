@@ -38,5 +38,5 @@ Challenge 1 を除き、各フォルダが [Salesforce DX プロジェクト](ht
     * 参考: [refreshApex の例 (lwc-recipes)](https://github.com/trailheadapps/lwc-recipes/blob/master/force-app/main/default/lwc/ldsDeleteRecord/ldsDeleteRecord.js)
 
 ### Challenge 6 - サンプルギャラリーの表示
-🚲 [Challenge 6 の解答例](https://github.com/shunkosa/swtt2019-minihack/commit/22ddbf234b3540d713a4d0ab6b63bd144cecc0ed#diff-a24b74cbe40670f8f6d6df7dc7d94c97)
+🚲 [Challenge 6 の解答例](https://github.com/shunkosa/swtt2019-minihack/tree/master/challenge6/force-app/main/default/lwc/productList)
 * 一から作っても良いですが、既存の `similarProducts` コンポーネントをコピーして修正すると簡単です。
